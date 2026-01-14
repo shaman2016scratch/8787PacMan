@@ -1,1 +1,7 @@
-
+{
+  "installid": "@8787PacMac/pyrun",
+  "versions": {
+    "1.0.0": "/1.0.0.sh||bash"
+  },
+  "depend": {}
+}
