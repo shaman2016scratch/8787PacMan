@@ -1,0 +1,23 @@
+{
+  "site": "8787PacMac.vercel.app",
+  "host": "vercel.app",
+  "creator": "SHAMAN2016",
+  "proto": "https",
+  "nlink": {
+    "host": "https://8787PacMac.vercel.app",
+    "main": "/"
+  },
+  "links": {
+    "install": "/install/"
+  },
+  "server": {
+    "proto": "Site-https",
+    "host": "vercel.app",
+    "hosting": "vercel.app",
+    "domain": "https://8787PacMac.vercel.app"
+  },
+  "client": {},
+  "8787Browser-config": {
+    "version": "1.0"
+  }
+}
