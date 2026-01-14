@@ -4,6 +4,8 @@
   "description": "",
   "author": "SHAMAN2016",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "typescript": "1.0.0"
+  },
   "devDependencies": {}
 }
