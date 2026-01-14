@@ -6,5 +6,5 @@ sudo apt install python3
 sudo apt install build-essential
 sudo apt install python3-pip
 sudo apt install git
-git clone https://github.com/shaman2016scratch/8787PacMan/install.git
+git clone --branch install https://github.com/shaman2016scratch/8787PacMan.git
 echo "Установка завершена."
