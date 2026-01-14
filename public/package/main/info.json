@@ -3,5 +3,7 @@
   "versions": {
     "1.0.0": "/1.0.0.ts||typescript"
   },
-  "depend": {}
+  "depend": {
+     "typescript": "lastInPacMan"
+  }
 }
